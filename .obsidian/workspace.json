@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "fc7252f3a9ab6965",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad3dd15650770a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c36d69e6ba0fdff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-2025 Into The Deep/Raw Code/TeleOp_Main.java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TeleOp_Main.java"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1d71ddda349e280",
+    "type": "split",
+    "children": [
+      {
+        "id": "c112a9f5b7550f12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e9a81ba1d64ddea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52df4b89f0f6e303",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:raw_code",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "359f00acbedf782f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5a659a8646cdd70",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ec8eca1c179d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b9992882be98f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-2025 Into The Deep/Raw Code/TeleOp_Main.java.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TeleOp_Main.java"
+            }
+          },
+          {
+            "id": "34d51da2b2b9324c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-2025 Into The Deep/Raw Code/TeleOp_Main.java.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TeleOp_Main.java"
+            }
+          },
+          {
+            "id": "927cd594b33c876b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "069c8a8265fa94a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-2025 Into The Deep/Raw Code/TeleOp_Main.java.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TeleOp_Main.java"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c36d69e6ba0fdff",
+  "lastOpenFiles": [
+    "2024-2025 Into The Deep/Raw Robot Code.md",
+    "2024-2025 Into The Deep/Raw Code/TeleOp_Main.java.md",
+    "2024-2025 Into The Deep/Raw Code",
+    "2024-2025 Into The Deep",
+    "Welcome.md"
+  ]
+}
