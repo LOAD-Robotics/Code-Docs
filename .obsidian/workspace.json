@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6fc56aebc632ce0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
             "id": "8c36d69e6ba0fdff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2025 Into The Deep/Raw Code/TeleOp_Main.java.md",
+                "file": "2024-2025 Into The Deep/Annotated Code/TeleOp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TeleOp_Main.java"
+              "title": "TeleOp"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2025 Into The Deep/Raw Code/TeleOp_Main.java.md",
+                "file": "2024-2025 Into The Deep/Annotated Code/TeleOp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TeleOp_Main.java"
+              "title": "Backlinks for TeleOp"
             }
           },
           {
@@ -151,7 +166,8 @@
               "title": "Outline of TeleOp_Main.java"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,6 +176,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,8 +188,13 @@
   },
   "active": "8c36d69e6ba0fdff",
   "lastOpenFiles": [
-    "2024-2025 Into The Deep/Raw Robot Code.md",
+    "README.md",
+    "2024-2025 Into The Deep/Annotated Code/TeleOp.md",
+    "2024-2025 Into The Deep/Raw Code/Auto_Samples.md",
+    "2024-2025 Into The Deep/Raw Code/Auto_Specimens.java.md",
     "2024-2025 Into The Deep/Raw Code/TeleOp_Main.java.md",
+    "2024-2025 Into The Deep/Annotated Code",
+    "2024-2025 Into The Deep/Raw Robot Code.md",
     "2024-2025 Into The Deep/Raw Code",
     "2024-2025 Into The Deep",
     "Welcome.md"
